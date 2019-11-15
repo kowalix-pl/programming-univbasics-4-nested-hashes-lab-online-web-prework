@@ -125,4 +125,3 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => "Assembly"}}
 end
-return dennis_ritchie[:languages]
